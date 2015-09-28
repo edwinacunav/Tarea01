@@ -1,0 +1,13 @@
+h1 {
+	font-family: Liberation Serif;
+	font-size: 4em;
+	text-align: center;
+}
+body {
+	margin-left: 150px;
+}
+img {
+	text-align: left;
+	float: right;
+	margin: 0px 0px 15px 15px;
+}
